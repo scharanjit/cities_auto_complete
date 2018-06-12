@@ -5,11 +5,9 @@ import java.util.Arrays;
 import java.util.List;
 
 /**
- *
  * @author Charanjit Singh
- *
+ * <p>
  * cities
- *
  */
 
 public class Cities {
@@ -19,7 +17,6 @@ public class Cities {
             "Chatham S.O",
             "Delanipur S.O",
             "Marine Jetty S.O",
-
             "Kalakada Doddipalle B.O",
             "Kotagudibanda B.O",
             "Thuvvapalle B.O",
