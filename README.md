@@ -1,5 +1,8 @@
 # cities_auto_complete
 
+This is a Java based project which auto detects the City Name from fixed number of strings.
+The code is built over spring boot seed project cloned from https://spring.io/guides/gs/spring-boot/
+
 
 
 **Build the project**
@@ -14,6 +17,11 @@ mvn spring-boot:run
 
 **API**
 
+Below are the list of get request with two params
+
+**_start_** = initial character in a city name
+
+**_atmost_** = maximum number of entries expected in the result.
 
 1.) http://localhost:8080/suggest_cities?start=Kot&atmost=5
 
