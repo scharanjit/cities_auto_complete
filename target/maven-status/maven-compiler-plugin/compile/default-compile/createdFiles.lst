@@ -1,7 +1,0 @@
-org/imaginea/demo/service/AutoCompleteService.class
-org/imaginea/demo/controller/CityController.class
-org/imaginea/demo/utils/StringsUtils.class
-org/imaginea/demo/Application.class
-org/imaginea/demo/exceptions/NoCityFoundException.class
-org/imaginea/demo/model/Cities.class
-org/imaginea/demo/model/HttpResponse.class
